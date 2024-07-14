@@ -5,4 +5,4 @@ CREATE TABLE participants (
     is_confirmed BOOLEAN NOT NULL,
     trip_id UUID,
     FOREIGN KEY (trip_id) REFERENCES trips(id)
-)
+);
