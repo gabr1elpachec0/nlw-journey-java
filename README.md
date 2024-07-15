@@ -1,8 +1,8 @@
-<h2>nlw - journey 🎒</h2>
+## nlw - journey 🎒
 
-<p>Java REST API created to manage trips including their participants, links and activities.</p>
+#### Java REST API created to manage trips including their participants, links and activities.</p>
 
-# Dependencies
+### Dependencies
 - ```Lombok```
 - ```H2 Database```
 - ```JPA```
