@@ -2,11 +2,8 @@
 
 <p>Java REST API created to manage trips including their participants, links and activities.</p>
 
-<h4>
-  Dependencies
-</h4>
-
-<p>```Lombok```</p>
-<p>```H2 Database```</p>
-<p>```JPA```</p>
-<p>```Flyway```</p>
+# Dependencies
+- ```Lombok```
+- ```H2 Database```
+- ```JPA```
+- ```Flyway```
